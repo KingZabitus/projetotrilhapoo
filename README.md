@@ -1,5 +1,5 @@
 # Tamagotchi #
-Este é um projeto simples de um jogo Tamagotchi, onde você pode interagir com seu Tamagotchi virtual alimentando-o, brincando com ele, treinando-o e muito mais!
+Este é um projeto simples de um jogo Tamagotchi, onde você pode interagir com seu Tamagotchi virtual alimentando-o, brincando com ele, treinando-o e muito mais! Este projeto foi realizado como parte da disciplina de Programação Orientada a Objetos.
 
 ## Como executar o jogo ##
 1. Certifique-se de ter o Java Development Kit (JDK) instalado em seu sistema.
